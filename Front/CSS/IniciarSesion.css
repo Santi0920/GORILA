@@ -1,17 +1,8 @@
 
-  
-  
-
-.imagen1 {     
-  width: 2100px;
-  height: 1200x;
-     
-}
-
-
+/*  INTERFAZ LOGIN */
 .rojo {
   position: absolute;
-  width: 200px;
+  width: 0px;
   height: 56px;
   background:red;
   margin: auto;
@@ -20,7 +11,28 @@
   margin-bottom: 0px;
   box-shadow: 7px 13px 37px #000;
   padding: 20px 30px;
-  border-radius: 10px;
+  border-radius: 90px;
+}
+.rojo2 {
+  position: absolute;
+  width: 200px;
+  height: 60px;
+  background:red;
+  margin: auto;
+  margin-top: 4px;
+  margin-left: 6px;
+  margin-bottom: 0px;
+  box-shadow: 7px 10px 70px #000;
+  padding: 10px 10px;
+  border-radius: 90px;
+}
+
+.texto{
+  margin-top: -5px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  font-size: 20px;
+  font-style:normal;
 }
 
 .barra {
@@ -41,13 +53,14 @@
 
 .text1 {     
   position: absolute;
-  margin-left: 204px;
+  margin-left: 194px;
   margin-top: 750px;
   margin-bottom: 20px;
-  font-size: 25px;
+  font-size: 20px;
   z-index: 2;
   color: aliceblue;
-  
+  font-family: Poppins;
+  src: url(Poppins.ttf)
 }
 
 
@@ -55,7 +68,95 @@
 
 margin: auto;
 
+}
 
 
+.imagen1{
+  position: relative;
+  width: 139px;
+  height: 134px;
+  margin-left: -45px;
+  margin-top: -1050px;
+  margin-bottom: 100px;
+  font-size: 25px;
+  z-index: 2;
+  color: aliceblue;
 
 }
+
+
+
+.form{
+  position: relative;
+  width: 139px;
+  height: 134px;
+  margin-left: -45px;
+  margin-top: -300px;
+  margin-bottom: 100px;
+  font-size: 25px;
+  z-index: 2;
+  color: aliceblue;
+  font-size: 15px;
+
+}
+
+.poppins{
+font-family: Poppins;
+src: url(Poppins.ttf)
+}
+
+.form1{
+  position: relative;
+  width: 564px;
+  height: 66px;
+  margin-left: 10px;
+  margin-top: 20px;
+  margin-bottom: 28px;
+  z-index: 2;
+  font-size: 20px;
+  border-radius: 90px;
+}
+
+.form2{
+  position: relative;
+  width: 564px;
+  height: 66px;
+  margin-left: 10px;
+  margin-top: 0px;
+  margin-bottom: 28px;
+  z-index: 2;
+  font-size: 20px;
+  border-radius: 90px;
+}
+
+.check{
+  position: relative;
+  width: 25px;
+  height: 25px;
+  margin-left: 0px;
+  margin-top: -4px;
+  margin-bottom: -10px;
+  margin-right: 0px;
+  font-size: 20px;
+}
+
+
+body{
+
+  background: url("../img/Autonoma.jpg") no-repeat;
+  height: auto;
+  width: auto;
+}
+
+
+
+
+@media (min-width: 1200px) {
+  body {
+      background: url("../img/Autonoma-1200w.jpg") no-repeat;
+  }
+}
+
+
+
+
