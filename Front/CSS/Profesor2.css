@@ -1,0 +1,196 @@
+.imagen1{
+    position: relative;
+    width: 60px;
+    height: 50px;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    color: aliceblue;
+}
+
+
+
+.imagen2{
+    position: relative;
+    width: 60px;
+    height: 50px;
+    margin-left: 8px;
+    margin-top: 12px;
+    margin-bottom: 0px;
+    z-index: 2;
+    
+}
+
+.imagen3{
+    position: relative;
+    width: 60px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    z-index: 2;
+    
+}
+
+
+.poppins{
+    font-family: Poppins;
+    src: url(Poppins.ttf)
+    }
+
+.raya1{
+    position: absolute;
+    width: 1860px;
+    height: 10px;
+    border-color: #707070;
+    margin-top: 130px;
+    padding: 20px 30px;
+}
+
+
+
+.text1{
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 40px;
+    margin-bottom: 100px;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+}
+
+
+.circulo0{
+    width: 75px;
+    height: 75px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #E2E2E2;
+    margin-left: 50px;
+    margin-top: 30px;
+    position: absolute;
+    border:1px solid black;
+
+}
+
+.circulo{
+     width: 75px;
+     height: 75px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #E2E2E2;
+     margin-left: 1650px;
+     margin-top: 30px;
+     position: absolute;
+     border:1px solid black;
+
+}
+
+.circulo2{
+    width: 75px;
+    height: 75px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #E2E2E2;
+    margin-left: 1780px;
+    margin-top: 30px;
+    position: absolute;
+    border:1px solid black;
+
+}
+
+
+.Asignatura{
+    position: absolute;
+    width: 1500px;
+    height: 368px;
+    background:white;
+    margin: auto;
+    margin-top: 170px;
+    margin-left: 200px;
+    margin-bottom: 0px;
+    box-shadow: 0px 0px 4px #000;
+    padding: 20px 30px;
+    border-radius: 20px;
+
+}
+
+.comentarios{   
+    position: absolute;
+    width: 214px;
+    height: 174px;
+    background:white;
+    margin: auto;
+    margin-top: 560px;
+    margin-left: 200px;
+    margin-bottom: 0px;
+    box-shadow: 0px 0px 4px #000;
+    padding: 20px 30px;
+    border-radius: 20px;
+
+}
+
+.comentariosT{
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 100px;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.comentariosT2{
+    position: absolute;
+    margin-left: -10px;
+    margin-top: 32px;
+    margin-bottom: 100px;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    font-weight: 0px;
+    padding: 0px 0px;
+    opacity: 70%;
+
+}
+
+.comentariosT3{
+    position: absolute;
+    margin-left: 110px;
+    margin-top: 120px;
+    margin-bottom: 100px;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    padding: 0px 0px;
+    color: blueviolet;
+
+}
+
+.subida{
+    position: absolute;
+    width: 1270px;
+    height: 368px;
+    background: #F1F1F1;
+    margin: auto;
+    margin-top: 560px;
+    margin-left: 430px;
+    margin-bottom: 0px;
+    box-shadow: 0px 0px 4px #000;
+    padding: 20px 30px;
+    border-radius: 20px;
+}
+
+.nube{
+    position: relative;
+    width: 200px;
+    height: 170px;
+    margin-left: 500px;
+    margin-top: 40px;
+    margin-bottom: 100px;
+    color: aliceblue;
+    opacity: 70%;
+
+
+
+}

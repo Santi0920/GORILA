@@ -5,7 +5,7 @@
     width: 127px;
     height: 122px;
     margin-left: 50px;
-    margin-top: 11px;
+    margin-top: 0px;
     margin-bottom: 100px;
     color: aliceblue;
 }
@@ -43,7 +43,7 @@
     width: 1860px;
     height: 10px;
     border-color: #707070;
-    margin-top: 155px;
+    margin-top: 130px;
     padding: 20px 30px;
 }
 
@@ -52,7 +52,7 @@
     width: 423px;
     height: 10px;
     border-color: #707070;
-    margin-top: 578px;
+    margin-top: 520px;
     margin-left: 194px;
     padding: 20px 30px;
 }
@@ -62,7 +62,7 @@
     width: 423px;
     height: 10px;
     border-color: #707070;
-    margin-top: 578px;
+    margin-top: 520px;
     margin-left: 714px;
     padding: 20px 30px;
 }
@@ -72,7 +72,7 @@
     width: 423px;
     height: 10px;
     border-color: #707070;
-    margin-top: 578px;
+    margin-top: 520px;
     margin-left: 1234px;
     padding: 20px 30px;
 }
@@ -87,30 +87,30 @@
 }
 
 .circulo{
-     width: 75px;
-     height: 75px;
-     -moz-border-radius: 50%;
-     -webkit-border-radius: 50%;
-     border-radius: 50%;
-     background: #E2E2E2;
-     margin-left: 1600px;
-     margin-top: 30px;
-     position: absolute;
-     border:1px solid black;
-
-}
-
-.circulo2{
     width: 75px;
     height: 75px;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
     background: #E2E2E2;
-    margin-left: 1730px;
+    margin-left: 1650px;
     margin-top: 30px;
     position: absolute;
     border:1px solid black;
+
+}
+
+.circulo2{
+   width: 75px;
+   height: 75px;
+   -moz-border-radius: 50%;
+   -webkit-border-radius: 50%;
+   border-radius: 50%;
+   background: #E2E2E2;
+   margin-left: 1780px;
+   margin-top: 30px;
+   position: absolute;
+   border:1px solid black;
 
 }
 
@@ -121,7 +121,7 @@
     height: 437px;
     background:white;
     margin: auto;
-    margin-top: 236px;
+    margin-top: 170px;
     margin-left: 194px;
     margin-bottom: 0px;
     box-shadow: 0px 0px 4px #000;
@@ -137,7 +137,7 @@
     height: 437px;
     background:white;
     margin: auto;
-    margin-top: 236px;
+    margin-top: 170px;
     margin-left: 714px;
     margin-bottom: 0px;
     box-shadow: 0px 0px 4px #000;
@@ -153,7 +153,7 @@
     height: 437px;
     background:white;
     margin: auto;
-    margin-top: 236px;
+    margin-top: 170px;
     margin-left: 1234px;
     margin-bottom: 0px;
     box-shadow: 0px 0px 4px #000;
@@ -161,3 +161,4 @@
     border-radius: 20px;
 
 }
+
