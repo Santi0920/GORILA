@@ -3,13 +3,12 @@
 .rojo {
   position: absolute;
   width: 0px;
-  height: 56px;
-  background:red;
+  height: 0px;
+  background: white;
   margin: auto;
   margin-top: 744px;
   margin-left: 175px;
   margin-bottom: 0px;
-  box-shadow: 7px 13px 37px #000;
   padding: 20px 30px;
   border-radius: 90px;
 }
@@ -151,9 +150,10 @@ body{
 
 
 
-@media (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
   body {
       background: url("../img/Autonoma-1200w.jpg") no-repeat;
+      width: 100%; 
   }
 }
 

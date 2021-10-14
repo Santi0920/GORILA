@@ -1,25 +1,15 @@
-/*  INTERFAZ PROFESOR1 */
+/*  INTERFAZ DIRECTOR3 */
 
 .imagen1{
-    position: absolute;
-    width: 127px;
-    height: 122px;
-    margin-left: 50px;
-    margin-top: 0px;
-    margin-bottom: 100px;
-    color: aliceblue;
-}
-
-.imagen2{
     position: relative;
     width: 60px;
     height: 50px;
-    margin-left: 6px;
+    margin-left: 7px;
     margin-top: 10px;
     margin-bottom: 0px;
     z-index: 2;
-    
 }
+  
 
 .imagen3{
     position: relative;
@@ -27,6 +17,16 @@
     height: 50px;
     margin-left: 10px;
     margin-top: 10px;
+    margin-bottom: 0px;
+    z-index: 2;
+    
+}
+.img3{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-left: 12px;
+    margin-top: 12px;
     margin-bottom: 0px;
     z-index: 2;
     
@@ -80,20 +80,21 @@
     color: rgb(0, 0, 0);
     font-size: 40px;
 }
-
-.circulo{
+.circulo0{
     width: 75px;
     height: 75px;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
     background: #E2E2E2;
-    margin-left: 1650px;
+    margin-left: 50px;
     margin-top: 15px;
     position: absolute;
     border:1px solid black;
 
 }
+
+
 
 .circulo2{
    width: 75px;
@@ -108,9 +109,63 @@
    border:1px solid black;
 
 }
+.circulo3{
+    width: 120px;
+    height: 120px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #F5AEAE;
+    margin-left: 1720px;
+    margin-top: 800px;
+    position: absolute;
+    border:1px solid #707070;
+    z-index: 2; 
+ }
 
 
-.profesor1{
+ .circulo4{
+    width: 174px;
+    height: 171px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #F5AEAE;
+    margin-left: 490px;
+    margin-top: 245px;
+    position: absolute;
+    border:1px solid #707070;
+    z-index: 2; 
+ }
+
+ .circulo5{
+    width: 174px;
+    height: 171px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #F5AEAE;
+    margin-left: 1010px;
+    margin-top: 245px;
+    position: absolute;
+    border:1px solid #707070;
+    z-index: 2; 
+ }
+
+ .circulo6{
+    width: 174px;
+    height: 171px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #F5AEAE;
+    margin-left: 1530px;
+    margin-top: 245px;
+    position: absolute;
+    border:1px solid #707070;
+    z-index: 2; 
+ }
+.director1{
     position: absolute;
     width: 483px;
     height: 437px;
@@ -126,7 +181,7 @@
 }
 
 
-.profesor2{
+.director2{
     position: absolute;
     width: 483px;
     height: 437px;
@@ -142,7 +197,7 @@
 }
 
 
-.profesor3{
+.director3{
     position: absolute;
     width: 483px;
     height: 437px;
